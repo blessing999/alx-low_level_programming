@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*main - function prints text as output
+*main - function_prints_text_as_output
 *
 *Return:return 0
 */
