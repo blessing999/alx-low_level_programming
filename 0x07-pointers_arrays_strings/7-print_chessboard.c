@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * print_chessboard - print a chessboard.
  * @a: source matrix
@@ -18,3 +18,4 @@ void print_chessboard(char (*a)[8])
 		}
 		_putchar('\n');
 	}
+}
