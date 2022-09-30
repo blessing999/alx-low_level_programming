@@ -1,5 +1,3 @@
-nes (55 sloc)  919 Bytes
-
 #include "main.h"
 /**
  * s_len - calculates the length of a string.
